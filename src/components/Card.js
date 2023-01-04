@@ -13,3 +13,5 @@ const Card = ({ name, email, id }) => {
 }
 
 export default Card;
+
+//khosha ann kas ke kas danash to bashi
